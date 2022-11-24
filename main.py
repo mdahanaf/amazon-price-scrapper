@@ -1,7 +1,4 @@
-import requests
-from bs4 import BeautifulSoup
 from my_func import *
-
 
 search_topic = input("Enter your search topic: ")
 how_many_pages: int = int(input("How many pages you wanna check?: "))
